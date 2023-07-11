@@ -1,4 +1,4 @@
-### Hi there 👋
+# 한세대학교 IT학부 학생들의 프로젝트 실습 공간으로 사용합니다.💬
 
 <!--
 **hansei-it/hansei-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👋
 -->
